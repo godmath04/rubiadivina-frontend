@@ -17,6 +17,12 @@ export default function MainContent() {
         break;
       case 'Productos':
         navigate('/productos');
+        break;
+      case 'Facturas':
+        navigate('/facturas');
+        break;
+      case 'Pedidos':
+        navigate('/pedidos');
         break
       default:
         console.log(`Botón no manejado: ${label}`);
