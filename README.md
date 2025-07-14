@@ -32,6 +32,7 @@ npm install
 npm run dev
 ```
 
+En caso de ser necesario modificar el .env por el puerto correcto en la BD
 ## API
 Para conectar a la API debes descargar el proyecto que se encuentra en .NET
 https://github.com/godmath04/MAUI_ProyectoAvance2.git
